@@ -1,2 +1,2 @@
 # MYSQL
-Exo my sql
+Parcours d'exercice MYSQL

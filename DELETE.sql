@@ -1,0 +1,1 @@
+DELETE FROM Météo WHERE ville ='Bruxelles' 

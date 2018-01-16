@@ -1,0 +1,1 @@
+UPDATE Météo SET ville = 'Bruxelles' WHERE bas<20
